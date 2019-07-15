@@ -1,0 +1,1 @@
+<?php	add_theme_support('menus');	register_nav_menus(array(		'menu_main'=>'Menu Main',		'menu_footer'=>'Menu Footer',		'menu_center'=>'Menu Center',		'menu_job'=>'Menu Job',		'menu_research'=>'Menu Research',		'menu_relationship'=>'Menu Relationship',		'menu_product'=>'Menu Product',		'menu_mobile'=>'Menu Mobile',		'menu_school'=>'Menu School',	));?>
